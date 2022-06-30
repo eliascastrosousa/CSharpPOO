@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\bin\Debug\net6.0\Atv04Operadores.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\bin\Debug\net6.0\Atv04Operadores.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\bin\Debug\net6.0\Atv04Operadores.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\bin\Debug\net6.0\Atv04Operadores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\bin\Debug\net6.0\Atv04Operadores.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\refint\Atv04Operadores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\Atv04Operadores.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Atv04Operadores\Atv04Operadores\obj\Debug\net6.0\ref\Atv04Operadores.dll
