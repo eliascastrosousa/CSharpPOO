@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\bin\Debug\net6.0\Aula07EntradaDeDados.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\bin\Debug\net6.0\Aula07EntradaDeDados.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\bin\Debug\net6.0\Aula07EntradaDeDados.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\bin\Debug\net6.0\Aula07EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\bin\Debug\net6.0\Aula07EntradaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\refint\Aula07EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\Aula07EntradaDeDados.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula07EntradaDeDados\Aula07EntradaDeDados\obj\Debug\net6.0\ref\Aula07EntradaDeDados.dll

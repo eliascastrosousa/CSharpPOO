@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\bin\Debug\net6.0\Ex02EntradaDeDados.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\bin\Debug\net6.0\Ex02EntradaDeDados.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\bin\Debug\net6.0\Ex02EntradaDeDados.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\bin\Debug\net6.0\Ex02EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\bin\Debug\net6.0\Ex02EntradaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\refint\Ex02EntradaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\Ex02EntradaDeDados.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex02EntradaDeDados\Ex02EntradaDeDados\obj\Debug\net6.0\ref\Ex02EntradaDeDados.dll

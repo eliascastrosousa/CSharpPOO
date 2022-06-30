@@ -15,7 +15,9 @@
             int d = 2;
             int e = 3;
             double f = (double)d/e;
-            Console.WriteLine("Casting com divis]ao de inteiros em double: {0}",f.ToString("F2"));
+            Console.WriteLine("Casting com divisao de inteiros em double: {0}",f.ToString("F2"));
+            Console.WriteLine("\n\n");
+
 
 
 
