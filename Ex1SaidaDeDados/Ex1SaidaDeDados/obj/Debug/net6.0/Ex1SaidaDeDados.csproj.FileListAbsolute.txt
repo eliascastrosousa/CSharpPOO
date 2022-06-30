@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\bin\Debug\net6.0\Ex1SaidaDeDados.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\bin\Debug\net6.0\Ex1SaidaDeDados.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\bin\Debug\net6.0\Ex1SaidaDeDados.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\bin\Debug\net6.0\Ex1SaidaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\bin\Debug\net6.0\Ex1SaidaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\refint\Ex1SaidaDeDados.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\Ex1SaidaDeDados.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex1SaidaDeDados\Ex1SaidaDeDados\obj\Debug\net6.0\ref\Ex1SaidaDeDados.dll
