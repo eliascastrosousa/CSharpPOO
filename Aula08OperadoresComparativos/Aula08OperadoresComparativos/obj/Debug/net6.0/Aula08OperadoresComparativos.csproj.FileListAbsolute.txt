@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\bin\Debug\net6.0\Aula08OperadoresComparativos.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\bin\Debug\net6.0\Aula08OperadoresComparativos.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\bin\Debug\net6.0\Aula08OperadoresComparativos.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\bin\Debug\net6.0\Aula08OperadoresComparativos.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\bin\Debug\net6.0\Aula08OperadoresComparativos.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\refint\Aula08OperadoresComparativos.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\Aula08OperadoresComparativos.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula08OperadoresComparativos\Aula08OperadoresComparativos\obj\Debug\net6.0\ref\Aula08OperadoresComparativos.dll
