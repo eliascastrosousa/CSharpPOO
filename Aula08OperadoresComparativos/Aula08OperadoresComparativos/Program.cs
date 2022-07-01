@@ -12,7 +12,6 @@
             Console.WriteLine(z);
             Console.WriteLine(w);
 
-
             if (x){
                 Console.WriteLine("Verdadeiro");
             }
