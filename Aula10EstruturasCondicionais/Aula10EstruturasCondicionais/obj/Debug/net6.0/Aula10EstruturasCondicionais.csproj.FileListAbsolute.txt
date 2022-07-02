@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\bin\Debug\net6.0\Aula10EstruturasCondicionais.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\bin\Debug\net6.0\Aula10EstruturasCondicionais.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\bin\Debug\net6.0\Aula10EstruturasCondicionais.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\bin\Debug\net6.0\Aula10EstruturasCondicionais.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\bin\Debug\net6.0\Aula10EstruturasCondicionais.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\refint\Aula10EstruturasCondicionais.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\Aula10EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula10EstruturasCondicionais\Aula10EstruturasCondicionais\obj\Debug\net6.0\ref\Aula10EstruturasCondicionais.dll
