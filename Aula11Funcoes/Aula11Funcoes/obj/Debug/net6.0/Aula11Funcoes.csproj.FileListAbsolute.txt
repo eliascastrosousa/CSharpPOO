@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\bin\Debug\net6.0\Aula11Funcoes.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\bin\Debug\net6.0\Aula11Funcoes.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\bin\Debug\net6.0\Aula11Funcoes.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\bin\Debug\net6.0\Aula11Funcoes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\bin\Debug\net6.0\Aula11Funcoes.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\refint\Aula11Funcoes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\Aula11Funcoes.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula11Funcoes\Aula11Funcoes\obj\Debug\net6.0\ref\Aula11Funcoes.dll
