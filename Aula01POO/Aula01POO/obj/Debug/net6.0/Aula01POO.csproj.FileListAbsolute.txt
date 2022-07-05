@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\bin\Debug\net6.0\Aula01POO.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\bin\Debug\net6.0\Aula01POO.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\bin\Debug\net6.0\Aula01POO.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\bin\Debug\net6.0\Aula01POO.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\bin\Debug\net6.0\Aula01POO.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\refint\Aula01POO.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\Aula01POO.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula01POO\Aula01POO\obj\Debug\net6.0\ref\Aula01POO.dll

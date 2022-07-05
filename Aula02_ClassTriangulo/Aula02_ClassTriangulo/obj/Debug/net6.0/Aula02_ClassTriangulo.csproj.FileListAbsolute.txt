@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\bin\Debug\net6.0\Aula02_ClassTriangulo.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\bin\Debug\net6.0\Aula02_ClassTriangulo.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\bin\Debug\net6.0\Aula02_ClassTriangulo.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\bin\Debug\net6.0\Aula02_ClassTriangulo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\bin\Debug\net6.0\Aula02_ClassTriangulo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\refint\Aula02_ClassTriangulo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\Aula02_ClassTriangulo.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula02_ClassTriangulo\Aula02_ClassTriangulo\obj\Debug\net6.0\ref\Aula02_ClassTriangulo.dll
