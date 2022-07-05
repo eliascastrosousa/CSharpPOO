@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\bin\Debug\net6.0\Ex04_ClassFuncionario.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\bin\Debug\net6.0\Ex04_ClassFuncionario.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\bin\Debug\net6.0\Ex04_ClassFuncionario.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\bin\Debug\net6.0\Ex04_ClassFuncionario.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\bin\Debug\net6.0\Ex04_ClassFuncionario.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\refint\Ex04_ClassFuncionario.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\Ex04_ClassFuncionario.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex04_ClassFuncionario\Ex04_ClassFuncionario\obj\Debug\net6.0\ref\Ex04_ClassFuncionario.dll
