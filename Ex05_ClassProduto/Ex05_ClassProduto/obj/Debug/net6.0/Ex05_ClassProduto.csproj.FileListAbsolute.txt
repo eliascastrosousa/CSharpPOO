@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\bin\Debug\net6.0\Ex05_ClassProduto.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\bin\Debug\net6.0\Ex05_ClassProduto.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\bin\Debug\net6.0\Ex05_ClassProduto.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\bin\Debug\net6.0\Ex05_ClassProduto.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\bin\Debug\net6.0\Ex05_ClassProduto.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\refint\Ex05_ClassProduto.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\Ex05_ClassProduto.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex05_ClassProduto\Ex05_ClassProduto\obj\Debug\net6.0\ref\Ex05_ClassProduto.dll
