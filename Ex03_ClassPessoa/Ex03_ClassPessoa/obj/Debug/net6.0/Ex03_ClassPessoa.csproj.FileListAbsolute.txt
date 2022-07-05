@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\bin\Debug\net6.0\Ex03_ClassPessoa.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\bin\Debug\net6.0\Ex03_ClassPessoa.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\bin\Debug\net6.0\Ex03_ClassPessoa.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\bin\Debug\net6.0\Ex03_ClassPessoa.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\bin\Debug\net6.0\Ex03_ClassPessoa.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\refint\Ex03_ClassPessoa.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\Ex03_ClassPessoa.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex03_ClassPessoa\Ex03_ClassPessoa\obj\Debug\net6.0\ref\Ex03_ClassPessoa.dll
