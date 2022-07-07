@@ -46,7 +46,7 @@ namespace Ex05_ClassProduto {
             Console.WriteLine("--------------------------------------------------------------");
 
 
-            Console.WriteLine("Fim!");
+            Console.WriteLine("\nFim!");
         }
         
 
