@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\bin\Debug\net6.0\Ex09CalculoRaio_Statico.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\bin\Debug\net6.0\Ex09CalculoRaio_Statico.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\bin\Debug\net6.0\Ex09CalculoRaio_Statico.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\bin\Debug\net6.0\Ex09CalculoRaio_Statico.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\bin\Debug\net6.0\Ex09CalculoRaio_Statico.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\refint\Ex09CalculoRaio_Statico.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\Ex09CalculoRaio_Statico.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Statico\Ex09CalculoRaio_Statico\obj\Debug\net6.0\ref\Ex09CalculoRaio_Statico.dll
