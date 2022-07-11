@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\bin\Debug\net6.0\Ex08Notas.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\bin\Debug\net6.0\Ex08Notas.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\bin\Debug\net6.0\Ex08Notas.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\bin\Debug\net6.0\Ex08Notas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\bin\Debug\net6.0\Ex08Notas.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\refint\Ex08Notas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\Ex08Notas.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex08Notas\Ex08Notas\obj\Debug\net6.0\ref\Ex08Notas.dll
