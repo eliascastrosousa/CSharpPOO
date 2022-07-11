@@ -11,15 +11,17 @@ namespace Ex08Notas {
         public double nota2;
         public double nota3;
 
+        public void PesoNota() {
+            nota1 = (nota1 * 30) / 10;
+            nota2 = (nota2 * 35) / 10;
+            nota3 = (nota3 * 35) / 10;
+        }
         public double AlunoNotas() {
-            double n1 = ((nota1 * 0.30)/10);
-            double n2 = ((nota2 * 0.35) / 10);
-            double n3 = ((nota3 * 0.35) / 10);
-            return (n1 + n2 + n3)*10;
+            return (nota1 + nota2 + nota3);
         }
 
 
     }
 
-    
+
 }
