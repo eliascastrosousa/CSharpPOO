@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\bin\Debug\net6.0\Ex10ConversorMoeda.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\bin\Debug\net6.0\Ex10ConversorMoeda.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\bin\Debug\net6.0\Ex10ConversorMoeda.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\bin\Debug\net6.0\Ex10ConversorMoeda.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\bin\Debug\net6.0\Ex10ConversorMoeda.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\refint\Ex10ConversorMoeda.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\Ex10ConversorMoeda.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex10ConversorMoeda\Ex10ConversorMoeda\obj\Debug\net6.0\ref\Ex10ConversorMoeda.dll

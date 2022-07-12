@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\bin\Debug\net6.0\Ex09CalculoRaio_Instanciado.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\bin\Debug\net6.0\Ex09CalculoRaio_Instanciado.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\bin\Debug\net6.0\Ex09CalculoRaio_Instanciado.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\bin\Debug\net6.0\Ex09CalculoRaio_Instanciado.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\bin\Debug\net6.0\Ex09CalculoRaio_Instanciado.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\refint\Ex09CalculoRaio_Instanciado.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\Ex09CalculoRaio_Instanciado.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex09CalculoRaio_Instanciado\Ex09CalculoRaio_Instanciado\obj\Debug\net6.0\ref\Ex09CalculoRaio_Instanciado.dll
