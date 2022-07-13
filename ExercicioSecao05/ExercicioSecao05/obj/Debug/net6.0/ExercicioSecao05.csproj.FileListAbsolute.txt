@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\bin\Debug\net6.0\ExercicioSecao05.exe
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\bin\Debug\net6.0\ExercicioSecao05.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\bin\Debug\net6.0\ExercicioSecao05.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\bin\Debug\net6.0\ExercicioSecao05.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\bin\Debug\net6.0\ExercicioSecao05.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\refint\ExercicioSecao05.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ExercicioSecao05.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioSecao05\ExercicioSecao05\obj\Debug\net6.0\ref\ExercicioSecao05.dll
