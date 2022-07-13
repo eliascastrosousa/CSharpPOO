@@ -1,29 +1,13 @@
-﻿using System;
+﻿using System.Globalization;
 
 namespace ExercicioSecao05 {
     internal class ContaBancaria {
 
 
-        public string  Conta { get; private set; }
-        private string _nome;
+        public string Conta { get; private set; }
+        private string Nome { get; set; }
         private double _saldo;
 
-        public string Nome {
-            get {
-                return _nome;
-            }
-            set {
-                if (value.Length >= 2)
-                {
-                    _nome = value;
-                }
-                else
-                {
-                    Console.WriteLine("Não foi possivel Cadastrar o nome!");
-                }
-
-            }
-        }
 
         public double Saldo {
             get {
@@ -40,6 +24,10 @@ namespace ExercicioSecao05 {
             deposito = Saldo;
         }
 
+        public override string ToString() {
+            return "\nNome: " + Nome + "\nNumero da Conta: " + Conta
+                + "Saldo $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+        }
 
 
 

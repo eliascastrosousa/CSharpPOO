@@ -3,6 +3,7 @@
         static void Main(string[] args) {
 
             double deposito = 0;
+            string Nome = null; 
 
             Console.WriteLine("===========================");
             Console.WriteLine("Bem vindo ao Banco CSharp ");
@@ -12,19 +13,30 @@
             string numconta = Console.ReadLine();
 
             Console.Write("Digite o nome: ");
-            string nome = Console.ReadLine();
+            string count = Console.ReadLine();
 
-            Console.Write("Deseja fazer deposito: ");
-            string x = Console.ReadLine();
-            if (x == "s" && x== "S" && x == "Sim" && x == "SIM" && x == "sim")
+            if (count.Length >= 2)
             {
-                Console.Write("Digite o valor do deposito: ");
-                 deposito = double.Parse(Console.ReadLine());
+                Nome = count;
             }
-           
-            ContaBancaria C = new ContaBancaria(numconta, nome, deposito);
+            else
+            {
+                Console.WriteLine("Não foi possivel Cadastrar o nome!");
+                Nome = "erro";
+            }
 
-            
+            Console.Write("Deseja fazer deposito: [s] ou [n]: ");
+            char x = char.Parse(Console.ReadLine());
+
+            if (x == 's')
+            {
+                Console.Write("\nDigite o valor do deposito: ");
+                deposito = double.Parse(Console.ReadLine());
+            }
+
+            ContaBancaria C = new ContaBancaria(numconta, Nome, deposito);
+
+
             Console.WriteLine(C);
 
 
