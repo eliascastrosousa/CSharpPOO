@@ -1,57 +1,61 @@
 ﻿using System.Globalization;
 
-namespace ExercicioSecao05 {
-    internal class Program {
-        static void Main(string[] args) {
+namespace ExercicioSecao05
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
 
-            Console.WriteLine("===========================");
-            Console.WriteLine("Bem vindo ao Banco CSharp ");
-            Console.WriteLine("===========================\n");
+            Produto p;
+            p = new Produto();
 
-            Console.Write("Digite o numero da Conta: ");
-            int numconta = int.Parse(Console.ReadLine());
+            Console.WriteLine("=======================================");
+            Console.WriteLine("Entre com os dados do produto: ");
+            Console.WriteLine("=======================================");
 
-            Console.Write("Digite o nome: ");
+            Console.Write("\nDigite o nome: ");
             string nome = Console.ReadLine();
+            p.SetNome("TV");
 
-            Console.Write("Deseja fazer deposito inicial: [s] ou [n]: ");
-            char x = char.Parse(Console.ReadLine());
-            double valor = 0;
-            if (x == 's')
-            {
-                Console.Write("Digite o valor do Deposito: ");
-                valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Preço: ");
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            p.SetPreco(preco);
 
-            }
-            else
-            {
-                valor = 0;
-            }
 
-            double deposito = valor;
+            Console.Write("Quantidade: ");
+            int qtd = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            p.SetQuantidade(qtd);
 
-            ContaBancaria C = new ContaBancaria(numconta, nome, deposito);
 
-            Console.WriteLine("\n===========================");
-            Console.WriteLine(C);
-            Console.WriteLine("===========================");
+            Console.WriteLine("--------------------------------------------------------------");
+            Console.WriteLine("Dados do produto: {0} ", p);
+            Console.WriteLine("--------------------------------------------------------------");
 
-            Console.Write("Entre com um valor de deposito: ");
-            valor = double.Parse(Console.ReadLine());
-            C.Deposito(valor);
+            Console.Write("\n\nDigite a quantidade de produtos a ser adicionado ao estoque: ");
+            qtd = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qtd);
 
-            Console.WriteLine("===========================");
-            Console.WriteLine(C);
-            Console.WriteLine("===========================");
+            Console.WriteLine("\n--------------------------------------------------------------");
+            Console.Write("Dados atualizados do estoque: {0}\n", p.GetQuantidade());
+            Console.WriteLine("--------------------------------------------------------------");
 
-            Console.Write("Entre com um valor de deposito: ");
-            valor = double.Parse(Console.ReadLine());
-            C.Saque(valor);
+            Console.Write("\nDigite a quantidade de produtos a ser removido do estoque: ");
+            qtd = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qtd);
 
-            Console.WriteLine("===========================");
-            Console.WriteLine(C);
-            Console.WriteLine("===========================");
+            Console.WriteLine("\n--------------------------------------------------------------");
+            Console.Write("Dados atualizados do estoque: {0}\n", p.GetQuantidade());
+            Console.WriteLine("--------------------------------------------------------------");
 
+            Console.WriteLine("--------------------------------------------------------------");
+            Console.WriteLine("Dados do produto: {0} ", p);
+            Console.WriteLine("--------------------------------------------------------------");
+
+
+            Console.WriteLine("\nFim!");
         }
+
+
     }
 }

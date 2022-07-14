@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\Documents\\Github\\CSharpPOO\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj": {}
+    "C:\\Users\\JuniorE\\OneDrive - Novelis Inc\\Documents\\ProjetoCSharp\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\Documents\\Github\\CSharpPOO\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj": {
+    "C:\\Users\\JuniorE\\OneDrive - Novelis Inc\\Documents\\ProjetoCSharp\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\Documents\\Github\\CSharpPOO\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorE\\OneDrive - Novelis Inc\\Documents\\ProjetoCSharp\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj",
         "projectName": "ExercicioSecao05",
-        "projectPath": "C:\\Users\\elias\\Documents\\Github\\CSharpPOO\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj",
-        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\Documents\\Github\\CSharpPOO\\ExercicioSecao05\\ExercicioSecao05\\obj\\",
+        "projectPath": "C:\\Users\\JuniorE\\OneDrive - Novelis Inc\\Documents\\ProjetoCSharp\\ExercicioSecao05\\ExercicioSecao05\\ExercicioSecao05.csproj",
+        "packagesPath": "C:\\Users\\JuniorE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorE\\OneDrive - Novelis Inc\\Documents\\ProjetoCSharp\\ExercicioSecao05\\ExercicioSecao05\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\JuniorE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
