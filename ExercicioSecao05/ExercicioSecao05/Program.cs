@@ -1,44 +1,56 @@
-﻿namespace ExercicioSecao05 {
+﻿using System.Globalization;
+
+namespace ExercicioSecao05 {
     internal class Program {
         static void Main(string[] args) {
-
-            double deposito = 0;
-            string Nome = null; 
 
             Console.WriteLine("===========================");
             Console.WriteLine("Bem vindo ao Banco CSharp ");
             Console.WriteLine("===========================\n");
 
             Console.Write("Digite o numero da Conta: ");
-            string numconta = Console.ReadLine();
+            int numconta = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o nome: ");
-            string count = Console.ReadLine();
+            string nome = Console.ReadLine();
 
-            if (count.Length >= 2)
+            Console.Write("Deseja fazer deposito inicial: [s] ou [n]: ");
+            char x = char.Parse(Console.ReadLine());
+            double valor = 0;
+            if (x == 's')
             {
-                Nome = count;
+                Console.Write("Digite o valor do Deposito: ");
+                valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
             }
             else
             {
-                Console.WriteLine("Não foi possivel Cadastrar o nome!");
-                Nome = "erro";
+                valor = 0;
             }
 
-            Console.Write("Deseja fazer deposito: [s] ou [n]: ");
-            char x = char.Parse(Console.ReadLine());
+            double deposito = valor;
 
-            if (x == 's')
-            {
-                Console.Write("\nDigite o valor do deposito: ");
-                deposito = double.Parse(Console.ReadLine());
-            }
+            ContaBancaria C = new ContaBancaria(numconta, nome, deposito);
 
-            ContaBancaria C = new ContaBancaria(numconta, Nome, deposito);
-
-
+            Console.WriteLine("\n===========================");
             Console.WriteLine(C);
+            Console.WriteLine("===========================");
 
+            Console.Write("Entre com um valor de deposito: ");
+            valor = double.Parse(Console.ReadLine());
+            C.Deposito(valor);
+
+            Console.WriteLine("===========================");
+            Console.WriteLine(C);
+            Console.WriteLine("===========================");
+
+            Console.Write("Entre com um valor de deposito: ");
+            valor = double.Parse(Console.ReadLine());
+            C.Saque(valor);
+
+            Console.WriteLine("===========================");
+            Console.WriteLine(C);
+            Console.WriteLine("===========================");
 
         }
     }

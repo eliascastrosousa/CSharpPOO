@@ -4,29 +4,37 @@ namespace ExercicioSecao05 {
     internal class ContaBancaria {
 
 
-        public string Conta { get; private set; }
-        private string Nome { get; set; }
-        private double _saldo;
+        private int _numero;
+        private string Titular { get; set; }
+        private double Saldo;
 
 
-        public double Saldo {
+        public int Numero {
             get {
-                return _saldo;
-            }
-            set {
-                _saldo += value;
-            }
+                return _numero;
+            }  
+        }
+        public void CadastroNumero(int num) {
+           _numero = num; ;
         }
 
-        public ContaBancaria(string conta, string nome, double deposito) {
-            conta = Conta;
-            nome = Nome;
-            deposito = Saldo;
+        public void Deposito(double valor) {
+            Saldo += valor;
+        }
+        public void Saque(double valor) {
+            Saldo -= valor+5;
+
+        }
+
+        public ContaBancaria(int numero, string nome, double valor) {
+            _numero = numero;
+            Titular = nome;
+            Saldo = valor;
         }
 
         public override string ToString() {
-            return "\nNome: " + Nome + "\nNumero da Conta: " + Conta
-                + "Saldo $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+            return "\nNome: " + Titular + "\nNumero da Conta: " + _numero
+                + "\nSaldo $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
 
