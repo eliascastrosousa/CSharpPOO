@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\bin\Debug\net6.0\Aula13_Nullable.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\bin\Debug\net6.0\Aula13_Nullable.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\bin\Debug\net6.0\Aula13_Nullable.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\bin\Debug\net6.0\Aula13_Nullable.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\bin\Debug\net6.0\Aula13_Nullable.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\refint\Aula13_Nullable.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\Aula13_Nullable.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula13_Nullable\Aula13_Nullable\obj\Debug\net6.0\ref\Aula13_Nullable.dll
