@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\bin\Debug\net6.0\Aula14_Vetores.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\bin\Debug\net6.0\Aula14_Vetores.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\bin\Debug\net6.0\Aula14_Vetores.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\bin\Debug\net6.0\Aula14_Vetores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\bin\Debug\net6.0\Aula14_Vetores.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\refint\Aula14_Vetores.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\Aula14_Vetores.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Aula14_Vetores\Aula14_Vetores\obj\Debug\net6.0\ref\Aula14_Vetores.dll
