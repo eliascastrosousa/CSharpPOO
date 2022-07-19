@@ -11,6 +11,7 @@ namespace Aula14_Vetores {
 
                 Console.WriteLine("\n[1]: Media de alturas utilizando Vetor");
                 Console.WriteLine("[2]: Media de Preços utilizando Vetor e classe Produto");
+                Console.WriteLine("[3]: Aluguel em Pensionato");
                 Console.Write("[0] Sair \nDigite: ");
 
                 opc = int.Parse(Console.ReadLine());
@@ -30,6 +31,13 @@ namespace Aula14_Vetores {
                         Console.WriteLine("\nOpção 2: Media de Preços utilizando Vetor e classe Produto");
                         MediaProdutos md = new MediaProdutos();
                         md.MediaProduto();
+                        break;
+
+                    case 3:
+                        Console.WriteLine("\nOpção 3: Aluguel em Pensionato");
+
+                        RegistrarAluguel RA = new RegistrarAluguel();
+                        RA.RegistrarAlugueis();
                         break;
 
                     default:
