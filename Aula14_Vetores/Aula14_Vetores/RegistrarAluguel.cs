@@ -13,7 +13,6 @@ namespace Aula14_Vetores {
             {
                 string nome;
                 string email;
-                int quarto;
 
                 for (int i = 0; i < n; i++)
                 {
@@ -29,7 +28,6 @@ namespace Aula14_Vetores {
 
                     Console.Write("Numero do Quarto Escolhido: ");
                     int v = int.Parse(Console.ReadLine());
-                    quarto = v;
 
                     pensao[v] = new Pensionato { Name = nome, Email = email };
                     Console.WriteLine("----------------");
