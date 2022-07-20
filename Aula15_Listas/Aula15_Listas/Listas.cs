@@ -14,6 +14,9 @@ namespace Aula15_Listas {
             list.Add("Oseas");
             list.Add("Karina");
             list.Add("Aline");
+            list.Add("Elias");
+            list.Add("Elaias");
+
 
             //list.Clear(); // remove todos os elementos da lista
             list.Insert(2, "Bata vladivski");
@@ -50,7 +53,49 @@ namespace Aula15_Listas {
             string s2 = list.FindLast(x => x[0] == c);
             Console.WriteLine("nome com {0}: {1}", c, s2);
 
+            Console.WriteLine("----------------------------------------------------------------");
+            Console.Write("Digite uma letra para encontrar o todos os nome com essa inicial: ");
+            c = char.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------------------------------");
 
+            List<string> list2 = list.FindAll(x => x[0] == c);
+            foreach(string obj in list2)
+            {
+                Console.WriteLine("Todos os nomes com {0}: {1}", c,obj);
+            }
+
+
+            /*
+            Console.WriteLine("----------------------------------------------------------------");
+            Console.Write("Digite uma letra para remover todos os nome com essa inicial: ");
+            c = char.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------------------------------");
+            */
+
+            Console.WriteLine("REMOVENDO STRINGS\n");
+            Console.WriteLine("REMOVENDO NOME KARINA");
+            list.Remove("Karina");
+            Console.WriteLine("--------------");
+            foreach(string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine("--------------");
+            Console.WriteLine("\n\n");
+            Console.WriteLine("----------------------------------------------------------------");
+            Console.Write("Digite uma letra para remover todos os nome com essa inicial: ");
+            c = char.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------------------------------");
+            list.RemoveAll(x => x[0] == c);
+            list.Remove("Anna");
+            list.RemoveAt(0); //removendo o primeiro nome
+            list.RemoveRange(0, 2);
+            Console.WriteLine("--------------");
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+            Console.WriteLine("--------------");
         }
 
         public void InsereLista() {

@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\bin\Debug\net6.0\Ex11Listas.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\bin\Debug\net6.0\Ex11Listas.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\bin\Debug\net6.0\Ex11Listas.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\bin\Debug\net6.0\Ex11Listas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\bin\Debug\net6.0\Ex11Listas.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\refint\Ex11Listas.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\Ex11Listas.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex11Listas\Ex11Listas\obj\Debug\net6.0\ref\Ex11Listas.dll
