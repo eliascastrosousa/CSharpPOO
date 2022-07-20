@@ -19,7 +19,7 @@ namespace Aula15_Listas {
             list.Insert(2, "Bata vladivski");
 
             Console.WriteLine("QTD de nomes: "+list.Count());
-
+            /*
             Console.WriteLine("Digite um nome: ");
             list.Add(Console.ReadLine());
 
@@ -30,11 +30,26 @@ namespace Aula15_Listas {
 
 
             Console.WriteLine("Quantidade de Nomes: "+  list.Count());
-
+            */
             foreach (string obj in list)
             {
                 Console.WriteLine("Mostrando os nomes:" + obj);
             }
+            Console.WriteLine("\nEncontrar nome");
+            Console.WriteLine("----------------------------------------------------------------");
+            Console.Write("Digite uma letra para encontrar o primeiro nome com essa inicial: ");
+            char c = char.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------------------------------");
+            string s1 = list.Find(x => x[0] == c);
+            Console.WriteLine("nome com {0}: {1}",c,s1 );
+
+            Console.WriteLine("----------------------------------------------------------------");
+            Console.Write("Digite uma letra para encontrar o ultimo nome com essa inicial: ");
+            c = char.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------------------------------");
+            string s2 = list.FindLast(x => x[0] == c);
+            Console.WriteLine("nome com {0}: {1}", c, s2);
+
 
         }
 
@@ -49,6 +64,10 @@ namespace Aula15_Listas {
             {
                 Console.WriteLine(obj);
             };
+        }
+
+        static bool Test(string s) {
+            return s[0] == 'A';
         }
 
     }
