@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\bin\Debug\net6.0\Ex12_Matrizes.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\bin\Debug\net6.0\Ex12_Matrizes.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\bin\Debug\net6.0\Ex12_Matrizes.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\bin\Debug\net6.0\Ex12_Matrizes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\bin\Debug\net6.0\Ex12_Matrizes.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\refint\Ex12_Matrizes.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\Ex12_Matrizes.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Ex12_Matrizes\Ex12_Matrizes\obj\Debug\net6.0\ref\Ex12_Matrizes.dll
