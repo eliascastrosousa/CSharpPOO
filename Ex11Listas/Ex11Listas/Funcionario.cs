@@ -8,7 +8,7 @@ namespace Ex11Listas {
     internal class Funcionario {
         public int ID { get; set; }
         public string Nome { get; set; }
-        public double Salario { get; set; }
+        private double Salario;
 
         public Funcionario(int id, string nome, double sal) {
             ID = id;
@@ -16,9 +16,14 @@ namespace Ex11Listas {
             Salario = sal;
         }
 
+        public double MostrarSalario() {
+            return Salario;
+        }
+
         public void incrementoSalario(double porcentagem) {
-            double aumento = Salario / porcentagem;
+            double aumento = (porcentagem*Salario)/100;
             Salario += aumento;
+            
         }
 
         override public string ToString() {
