@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\bin\Debug\net6.0\Secao07_exemplo.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\bin\Debug\net6.0\Secao07_exemplo.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\bin\Debug\net6.0\Secao07_exemplo.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\bin\Debug\net6.0\Secao07_exemplo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\bin\Debug\net6.0\Secao07_exemplo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\refint\Secao07_exemplo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\Secao07_exemplo.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao07_exemplo\Secao07_exemplo\obj\Debug\net6.0\ref\Secao07_exemplo.dll

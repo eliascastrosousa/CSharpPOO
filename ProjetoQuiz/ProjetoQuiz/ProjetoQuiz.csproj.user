@@ -22,12 +22,6 @@
     <Compile Update="Pergunta02.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Pergunta05.Designer - Copia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Pergunta06.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="ResultFinal.cs">
       <SubType>Form</SubType>
     </Compile>
