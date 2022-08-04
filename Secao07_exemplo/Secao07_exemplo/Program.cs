@@ -14,6 +14,7 @@ namespace Secao07_exemplo {
                 "[6] Formatação (DateTime -> string)\n" +
                 "[7] Operações com Datetime (Add)\n" +
                 "[8] Operações e propriedades com Timespan\n" +
+                "[9] DateTimeKind e padrão ISO 8601 \n"+
                 "[0] Sair: ");
 
             int n = int.Parse(Console.ReadLine());
@@ -220,6 +221,44 @@ namespace Secao07_exemplo {
                     Console.WriteLine(mult);
                     Console.WriteLine(div);
                     break;
+
+                case 9:
+                    Console.WriteLine("DateTimeKind");
+                    DateTime xx = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
+                    DateTime ww = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
+                    DateTime zz = new DateTime(2000, 8, 15, 13, 5, 58);
+                    Console.WriteLine("d1: " + xx);
+                    Console.WriteLine("d1 Kind: " + xx.Kind);
+                    Console.WriteLine("d1 to Local: " + xx.ToLocalTime());
+                    Console.WriteLine("d1 to Utc: " + xx.ToUniversalTime());
+                    Console.WriteLine();
+                    Console.WriteLine("d2: " + ww);
+                    Console.WriteLine("d2 Kind: " + ww.Kind);
+                    Console.WriteLine("d2 to Local: " + ww.ToLocalTime());
+                    Console.WriteLine("d2 to Utc: " + ww.ToUniversalTime());
+                    Console.WriteLine();
+                    Console.WriteLine("d3: " + zz);
+                    Console.WriteLine("d3 Kind: " + zz.Kind);
+                    Console.WriteLine("d3 to Local: " + zz.ToLocalTime());
+                    Console.WriteLine("d3 to Utc: " + zz.ToUniversalTime());
+
+                    Console.WriteLine("padrão ISO 8601");
+                    DateTime de = DateTime.Parse("2000-08-15 13:05:58");
+                    DateTime df = DateTime.Parse("2000-08-15T13:05:58Z"); // cria local DateTime
+                    Console.WriteLine("d1: " + de);
+                    Console.WriteLine("d1 Kind: " + de.Kind);
+                    Console.WriteLine("d1 to Local: " + de.ToLocalTime());
+                    Console.WriteLine("d1 to Utc: " + de.ToUniversalTime());
+                    Console.WriteLine();
+                    Console.WriteLine("d2: " + df);
+                    Console.WriteLine("d2 Kind: " + df.Kind);
+                    Console.WriteLine("d2 to Local: " + df.ToLocalTime());
+                    Console.WriteLine("d2 to Utc: " + df.ToUniversalTime());
+                    Console.WriteLine();
+                    Console.WriteLine(df.ToString("yyyy-MM-ddTHH:mm:ssZ")); // cuidado!
+                    Console.WriteLine(df.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ"));
+                    break;
+
             }
             
 
