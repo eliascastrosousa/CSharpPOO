@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\bin\Debug\net6.0\ExercicioResolvido01.exe
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\bin\Debug\net6.0\ExercicioResolvido01.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\bin\Debug\net6.0\ExercicioResolvido01.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\bin\Debug\net6.0\ExercicioResolvido01.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\bin\Debug\net6.0\ExercicioResolvido01.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\refint\ExercicioResolvido01.dll
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ExercicioResolvido01.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\ExercicioResolvido01\ExercicioResolvido01\obj\Debug\net6.0\ref\ExercicioResolvido01.dll
