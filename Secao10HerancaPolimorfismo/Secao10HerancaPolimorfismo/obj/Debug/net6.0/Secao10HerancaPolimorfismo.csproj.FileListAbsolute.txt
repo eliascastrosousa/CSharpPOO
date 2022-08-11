@@ -1,0 +1,15 @@
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\net6.0\Secao10HerancaPolimorfismo.exe
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\net6.0\Secao10HerancaPolimorfismo.deps.json
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\net6.0\Secao10HerancaPolimorfismo.runtimeconfig.json
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\net6.0\Secao10HerancaPolimorfismo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\bin\Debug\net6.0\Secao10HerancaPolimorfismo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\refint\Secao10HerancaPolimorfismo.dll
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.pdb
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\Secao10HerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\elias\Documents\Github\CSharpPOO\Secao10HerancaPolimorfismo\Secao10HerancaPolimorfismo\obj\Debug\net6.0\ref\Secao10HerancaPolimorfismo.dll
