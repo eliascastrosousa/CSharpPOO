@@ -9,9 +9,9 @@ namespace Secao10HerancaPolimorfismo.Entities
         public string Holder { get; set; } //nome do dono da conta
         public double Balance { get; protected set; }
 
-        public void withDraw(double amount)
+        public virtual void withDraw(double amount) //virtual significa que pode sobrescrever em uma subclasse
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
         public void deposit(double amount)
         {

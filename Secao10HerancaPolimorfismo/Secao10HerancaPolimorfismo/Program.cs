@@ -7,18 +7,21 @@ namespace Secao10HerancaPolimorfismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
-            Account Conta = new Account(2001525, "Elias Castro", 500.25);
+            //Heranca h = new Heranca();
+            //h.heranca();
 
-            BusinessAccount ContaJuridica = new BusinessAccount(2001525000, "CO&Elias.Info", 3000, 5000);
+            //UpcastingDowncasting UpDw = new UpcastingDowncasting();
+            //UpDw.upcastingDowncasting();
 
-            ContaJuridica.loan(100);
-            Console.WriteLine(Conta);
-            Console.WriteLine(ContaJuridica);
+            Sobreposicao Sp = new Sobreposicao();
+            Sp.sobreposicao();
 
 
-            
+
+
+
+
         }
 
 
