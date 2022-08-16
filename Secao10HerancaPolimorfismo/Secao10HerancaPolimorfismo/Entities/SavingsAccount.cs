@@ -30,10 +30,11 @@ namespace Secao10HerancaPolimorfismo.Entities
             return base.ToString() + " Taxa de Juros: " + InterestRate;
         }
 
+        /*
         public override void withDraw(double amount) //sobreposicao ao metodo da classe Account
         {
             Balance -= amount;
-        }
+        }*/
 
         public override void withDraw(double amount) //sobreposicao ao metodo da classe Account
         {
