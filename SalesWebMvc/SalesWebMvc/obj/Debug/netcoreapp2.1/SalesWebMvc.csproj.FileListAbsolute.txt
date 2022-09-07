@@ -34,4 +34,8 @@ C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netc
 C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Create.cshtml.g.cs
+C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Delete.cshtml.g.cs
+C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
+C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
+C:\Users\elias\Documents\Github\CSharpPOO\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
